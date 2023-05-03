@@ -1,0 +1,20 @@
+body{
+  background-color: rgb(40, 137, 234);
+}
+.intro{
+  color: azure;
+  font-size:20px;
+  text-align: center;
+  margin-top: 200px;
+}
+.name{
+  text-align: center;
+  font-size: 90px;
+  margin-top: 20px;
+}
+
+.slogan{
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+   }
