@@ -14,11 +14,9 @@
 
   <div class="name"> DCA NOTÍCIAS </div>
 
-  <div class="slogan">Por meio do estudo vocẽ encontrará tudo o que precisa para conquistar seus objetivos</div>
-  <div class="name" >Saiba mais          
-
+  <div class="slogan">Por meio do estudo vocẽ encontrará tudo o que precisa para conquistar seus objetivos
+    <a href="dcanoticias.html">Saiba mais</a>
+    </div>       
 
 </body>
 </html>
-   
-
